@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 5e3feae642cab6e4dbc89a9e1ae04643
+timeCreated: 1545000532
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TTGDressA
+    100004: TTGDressB
+    100006: TTGDressC
+    100008: TTGFeetA
+    100010: TTGFeetB
+    100012: TTGFeetC
+    100014: TTGFeetD
+    100016: TTGHatB
+    100018: TTGHoodA
+    100020: TTGHoodB
+    100022: TTGJacket
+    100024: TTGLegsA
+    100026: TTGLegsB
+    100028: TTGLegsC
+    100030: TTGLegsD
+    100032: TTGLegsHA
+    100034: TTGLegsHB
+    100036: TTGLegsHS
+    100038: TTGLegsS
+    100040: TTGSkirt
+    100042: TTGSweater
+    100044: TTGTshirtA
+    100046: TTGTshirtB
+    100048: TTGTshirtC
+    100050: TTGTshirtSA
+    100052: TTGTshirtSB
+    100054: TTGTshirtSC
+    100056: TTGHatA
+    100058: TTGLegsSA
+    100060: TTGLegsSB
+    100062: TTGTshirtD
+    400000: //RootNode
+    400002: TTGDressA
+    400004: TTGDressB
+    400006: TTGDressC
+    400008: TTGFeetA
+    400010: TTGFeetB
+    400012: TTGFeetC
+    400014: TTGFeetD
+    400016: TTGHatB
+    400018: TTGHoodA
+    400020: TTGHoodB
+    400022: TTGJacket
+    400024: TTGLegsA
+    400026: TTGLegsB
+    400028: TTGLegsC
+    400030: TTGLegsD
+    400032: TTGLegsHA
+    400034: TTGLegsHB
+    400036: TTGLegsHS
+    400038: TTGLegsS
+    400040: TTGSkirt
+    400042: TTGSweater
+    400044: TTGTshirtA
+    400046: TTGTshirtB
+    400048: TTGTshirtC
+    400050: TTGTshirtSA
+    400052: TTGTshirtSB
+    400054: TTGTshirtSC
+    400056: TTGHatA
+    400058: TTGLegsSA
+    400060: TTGLegsSB
+    400062: TTGTshirtD
+    2300000: TTGDressA
+    2300002: TTGDressB
+    2300004: TTGDressC
+    2300006: TTGFeetA
+    2300008: TTGFeetB
+    2300010: TTGFeetC
+    2300012: TTGFeetD
+    2300014: TTGHatB
+    2300016: TTGHoodA
+    2300018: TTGHoodB
+    2300020: TTGJacket
+    2300022: TTGLegsA
+    2300024: TTGLegsB
+    2300026: TTGLegsC
+    2300028: TTGLegsD
+    2300030: TTGLegsHA
+    2300032: TTGLegsHB
+    2300034: TTGLegsHS
+    2300036: TTGLegsS
+    2300038: TTGSkirt
+    2300040: TTGSweater
+    2300042: TTGTshirtA
+    2300044: TTGTshirtB
+    2300046: TTGTshirtC
+    2300048: TTGTshirtSA
+    2300050: TTGTshirtSB
+    2300052: TTGTshirtSC
+    2300054: TTGHatA
+    2300056: TTGLegsSA
+    2300058: TTGLegsSB
+    2300060: TTGTshirtD
+    3300000: TTGDressA
+    3300002: TTGDressB
+    3300004: TTGDressC
+    3300006: TTGFeetA
+    3300008: TTGFeetB
+    3300010: TTGFeetC
+    3300012: TTGFeetD
+    3300014: TTGHatB
+    3300016: TTGHoodA
+    3300018: TTGHoodB
+    3300020: TTGJacket
+    3300022: TTGLegsA
+    3300024: TTGLegsB
+    3300026: TTGLegsC
+    3300028: TTGLegsD
+    3300030: TTGLegsHA
+    3300032: TTGLegsHB
+    3300034: TTGLegsHS
+    3300036: TTGLegsS
+    3300038: TTGSkirt
+    3300040: TTGSweater
+    3300042: TTGTshirtA
+    3300044: TTGTshirtB
+    3300046: TTGTshirtC
+    3300048: TTGTshirtSA
+    3300050: TTGTshirtSB
+    3300052: TTGTshirtSC
+    3300054: TTGHatA
+    3300056: TTGLegsSA
+    3300058: TTGLegsSB
+    3300060: TTGTshirtD
+    4300000: TTGHoodB
+    4300002: TTGHatB
+    4300004: TTGFeetA
+    4300006: TTGJacket
+    4300008: TTGFeetB
+    4300010: TTGFeetC
+    4300012: TTGFeetD
+    4300014: TTGHoodA
+    4300016: TTGLegsS
+    4300018: TTGSweater
+    4300020: TTGTshirtB
+    4300022: TTGSkirt
+    4300024: TTGTshirtSA
+    4300026: TTGLegsHA
+    4300028: TTGLegsHB
+    4300030: TTGLegsHS
+    4300032: TTGLegsB
+    4300034: TTGLegsA
+    4300036: TTGLegsC
+    4300038: TTGLegsD
+    4300040: TTGTshirtSB
+    4300042: TTGTshirtSC
+    4300044: TTGTshirtA
+    4300046: TTGDressA
+    4300048: TTGDressB
+    4300050: TTGTshirtC
+    4300052: TTGDressC
+    4300054: TTGHatA
+    4300056: TTGLegsSA
+    4300058: TTGTshirtD
+    4300060: TTGLegsSB
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFeetA01
+    second: {fileID: 2100000, guid: 32a558e12a61bfb4d8e08ab2d41e915f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTFeetB01
+    second: {fileID: 2100000, guid: 8bde20701e7249d4e9635f1e0cdadb4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTGFeetC02
+    second: {fileID: 2100000, guid: 2dc71c274d6b3ab4ca4d8533df6a10a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTGJacket01
+    second: {fileID: 2100000, guid: 0643b1f10c69d8d4399860dc8d3c8301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTGTshirt01
+    second: {fileID: 2100000, guid: 6b86e8109c09a7744938231480f6081e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTHatB01
+    second: {fileID: 2100000, guid: 8bc1d8fb222492844a25465a5991a5db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTHoodB01
+    second: {fileID: 2100000, guid: 8dd78ec2ce969ee4bb4a5a61c6427bc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTLegs
+    second: {fileID: 2100000, guid: 8588b245704aa8a4c803ca193ce1a09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTLegs01
+    second: {fileID: 2100000, guid: 99be4910a9876294895d120af4e3feef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TThatA01
+    second: {fileID: 2100000, guid: bed681d59390a4145b45d1a8ca8966dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTsweater01
+    second: {fileID: 2100000, guid: 811c5098109e27e4188124315c4f38c1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
